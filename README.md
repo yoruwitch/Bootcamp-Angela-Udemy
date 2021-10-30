@@ -1,6 +1,7 @@
 # Bootcamp Udemy - Dr. Angela Yu :computer:
 
 This is a repository of projects and classes files from Dr. Angela Yu's Udemy Bootcamp in [Web Development](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
+This section is going to be updated at least weekly.
 
 
 ### What are the topics:
