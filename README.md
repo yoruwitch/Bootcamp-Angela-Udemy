@@ -19,3 +19,8 @@ This section is going to be updated at least weekly.
 * Git and Github;
 * MongoDB and SQL;
 * Building APIs.
+
+### What have I done so far:
+
+* First porject (finished ver 1.0): a pure HTML simple CV;
+* Second project (ongoing): a new online portfolio using HTML and CSS.
